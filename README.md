@@ -16,7 +16,7 @@ $ pkg install pip
 
 $ pip2 install mechanize
 
-$;pip2 install requests
+$ pip2 install requests
 
 $ git clone https://github.com/IMIN-CYBER/Cyber_Easy
 
