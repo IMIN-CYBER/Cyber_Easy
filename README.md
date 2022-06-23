@@ -30,6 +30,6 @@ $ ls
 
 $ python Cyber_Easy.py
 
-#LOGIN SUCCES JALANKAN ULANG SAYANG 😋
+#LOGIN SUCCES JALANKAN ULANG 😘
 
 $ python Cyber_Easy.py
